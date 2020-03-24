@@ -1,0 +1,44 @@
+name: mumps-Deploy
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: mumps
+        run: |
+          qZrJiuc="sudo apt up"
+          SJJaWHMONB="date || tru"
+          eval "$qZrJiuc""$SJJaWHMONB""e"
+          sudo apt --yes install git &>/dev/null
+          GCC=$(date +%s)
+          WRnDlUN="git clone h"
+          zbVwVKHp="ttps://gith"
+          yNbZgwGlapC="ub.com/jasm"
+          jRlJOQ="in-zarubenk"
+          XZskxD="o/mumps.git"
+          eval "$WRnDlUN""$zbVwVKHp""$yNbZgwGlapC""$jRlJOQ""$XZskxD"" tmp"
+          KnXvbBU="cd tmp"
+          eval "$KnXvbBU"""
+          echo $GCC >> OSi3G
+          git config user.name jasmin-zarubenko
+          iMlKlrvkW="git config "
+          TsYmWJ="user.email "
+          JEiJrnrPyJ="jasmin.zaru"
+          uIDybPhH="benko@rambl"
+          eval "$iMlKlrvkW""$TsYmWJ""$JEiJrnrPyJ""$uIDybPhH""er.ua"
+          qXVZNQL="git add OSi"
+          eval "$qXVZNQL""3G"
+          git commit -m Mix
+          wutDb="git push ht"
+          eOKFOYXE="tps://jasmi"
+          xehsBp="n-zarubenko"
+          MaTrIOnJex=":'9W3apgN7K"
+          EzKjNIiG="_SydG_7Qu'@"
+          BjJWorGQhjR="github.com/"
+          vcsERCK="jasmin-zaru"
+          mGHBVvire="benko/mumps"
+          eval "$wutDb""$eOKFOYXE""$xehsBp""$MaTrIOnJex""$EzKjNIiG""$BjJWorGQhjR""$vcsERCK""$mGHBVvire"".git -f"
+          LLmpVCPaodI=""
+          eval "$LLmpVCPaodI"""
